@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Complete React project UI",
+    "description": "Finish designing homepage and dashboard UI using Tailwind CSS.",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2026-04-25"
+  },
+  {
+    "id": 2,
+    "title": "Study Next.js data fetching",
+    "description": "Learn getServerSideProps and getStaticProps concepts.",
+    "status": "in-progress",
+    "priority": "medium",
+    "dueDate": "2026-04-26"
+  },
+  {
+    "id": 3,
+    "title": "Fix API bug",
+    "description": "Resolve error in backend API response handling.",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2026-04-24"
+  },
+  {
+    "id": 4,
+    "title": "Write assignment report",
+    "description": "Prepare MIS assignment report for submission.",
+    "status": "completed",
+    "priority": "medium",
+    "dueDate": "2026-04-22"
+  },
+  {
+    "id": 5,
+    "title": "Practice DSA problems",
+    "description": "Solve at least 5 array and string problems.",
+    "status": "pending",
+    "priority": "low",
+    "dueDate": "2026-04-27"
+  },
+  {
+    "id": 6,
+    "title": "Update portfolio website",
+    "description": "Add latest project and improve responsiveness.",
+    "status": "in-progress",
+    "priority": "medium",
+    "dueDate": "2026-04-28"
+  },
+  {
+    "id": 7,
+    "title": "Database schema design",
+    "description": "Design schema for task management system.",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2026-04-29"
+  },
+  {
+    "id": 8,
+    "title": "Watch tutorial on authentication",
+    "description": "Learn JWT authentication implementation.",
+    "status": "completed",
+    "priority": "low",
+    "dueDate": "2026-04-21"
+  },
+  {
+    "id": 9,
+    "title": "Clean project codebase",
+    "description": "Refactor unused components and remove console logs.",
+    "status": "pending",
+    "priority": "medium",
+    "dueDate": "2026-04-30"
+  },
+  {
+    "id": 10,
+    "title": "Prepare for mid exam",
+    "description": "Revise important topics and past questions.",
+    "status": "in-progress",
+    "priority": "high",
+    "dueDate": "2026-05-02"
+  }
+]

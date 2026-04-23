@@ -8,12 +8,12 @@ const TasksCard = ({task}) => {
         <Card className="">
       {/* <CircleDollar aria-label="Dollar sign icon" className="text-primary size-6" role="img" /> */}
       <Card.Header>
-        <Card.Title className="text-xl text-black">{title}</Card.Title>
+        <Card.Title>{title}</Card.Title>
         <Card.Description>
           {description}
         </Card.Description>
       </Card.Header>
-      <Card.Footer className="text-black">
+      <Card.Footer>
         {status}
       </Card.Footer>
     </Card>

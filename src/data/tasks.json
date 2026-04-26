@@ -5,7 +5,10 @@
     "description": "Finish designing homepage and dashboard UI using Tailwind CSS.",
     "status": "pending",
     "priority": "high",
-    "dueDate": "2026-04-25"
+    "assignedTo": "Zabed",
+    "tags": ["frontend", "react", "ui"],
+    "dueDate": "2026-04-25",
+    "createdAt": "2026-04-20T10:00:00Z"
   },
   {
     "id": 2,
@@ -13,7 +16,10 @@
     "description": "Learn getServerSideProps and getStaticProps concepts.",
     "status": "in-progress",
     "priority": "medium",
-    "dueDate": "2026-04-26"
+    "assignedTo": "Zabed",
+    "tags": ["nextjs", "backend", "learning"],
+    "dueDate": "2026-04-26",
+    "createdAt": "2026-04-21T09:30:00Z"
   },
   {
     "id": 3,
@@ -21,7 +27,10 @@
     "description": "Resolve error in backend API response handling.",
     "status": "pending",
     "priority": "high",
-    "dueDate": "2026-04-24"
+    "assignedTo": "Rahim",
+    "tags": ["bug", "api", "backend"],
+    "dueDate": "2026-04-24",
+    "createdAt": "2026-04-22T08:45:00Z"
   },
   {
     "id": 4,
@@ -29,7 +38,10 @@
     "description": "Prepare MIS assignment report for submission.",
     "status": "completed",
     "priority": "medium",
-    "dueDate": "2026-04-22"
+    "assignedTo": "Karim",
+    "tags": ["academic", "report"],
+    "dueDate": "2026-04-22",
+    "createdAt": "2026-04-18T14:00:00Z"
   },
   {
     "id": 5,
@@ -37,7 +49,10 @@
     "description": "Solve at least 5 array and string problems.",
     "status": "pending",
     "priority": "low",
-    "dueDate": "2026-04-27"
+    "assignedTo": "Zabed",
+    "tags": ["dsa", "practice"],
+    "dueDate": "2026-04-27",
+    "createdAt": "2026-04-21T11:15:00Z"
   },
   {
     "id": 6,
@@ -45,7 +60,10 @@
     "description": "Add latest project and improve responsiveness.",
     "status": "in-progress",
     "priority": "medium",
-    "dueDate": "2026-04-28"
+    "assignedTo": "Zabed",
+    "tags": ["portfolio", "frontend", "design"],
+    "dueDate": "2026-04-28",
+    "createdAt": "2026-04-22T12:20:00Z"
   },
   {
     "id": 7,
@@ -53,7 +71,10 @@
     "description": "Design schema for task management system.",
     "status": "pending",
     "priority": "high",
-    "dueDate": "2026-04-29"
+    "assignedTo": "Rahim",
+    "tags": ["database", "design", "backend"],
+    "dueDate": "2026-04-29",
+    "createdAt": "2026-04-23T07:50:00Z"
   },
   {
     "id": 8,
@@ -61,7 +82,10 @@
     "description": "Learn JWT authentication implementation.",
     "status": "completed",
     "priority": "low",
-    "dueDate": "2026-04-21"
+    "assignedTo": "Karim",
+    "tags": ["learning", "auth", "jwt"],
+    "dueDate": "2026-04-21",
+    "createdAt": "2026-04-19T16:40:00Z"
   },
   {
     "id": 9,
@@ -69,7 +93,10 @@
     "description": "Refactor unused components and remove console logs.",
     "status": "pending",
     "priority": "medium",
-    "dueDate": "2026-04-30"
+    "assignedTo": "Zabed",
+    "tags": ["refactor", "cleanup"],
+    "dueDate": "2026-04-30",
+    "createdAt": "2026-04-23T09:10:00Z"
   },
   {
     "id": 10,
@@ -77,6 +104,9 @@
     "description": "Revise important topics and past questions.",
     "status": "in-progress",
     "priority": "high",
-    "dueDate": "2026-05-02"
+    "assignedTo": "Zabed",
+    "tags": ["exam", "study"],
+    "dueDate": "2026-05-02",
+    "createdAt": "2026-04-22T18:00:00Z"
   }
 ]
